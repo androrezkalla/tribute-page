@@ -1,0 +1,29 @@
+.background{
+    background-image: linear-gradient(gray, rgb(187, 178, 183))
+}
+.center{
+    text-align: center;
+}
+
+.name{
+    font-size: 80px;
+    margin-bottom: 20px;
+    color: linear-gradient(gray,rgb(202, 202, 202));
+}
+
+.quote{
+    margin-top: 10px;
+    padding-bottom: 100px;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.paul-img{
+    width: 80%;
+    height: auto;
+}
+
+.desc{
+    padding-left: 100px;
+    padding-right: 220px;
+}
